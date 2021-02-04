@@ -18,3 +18,9 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## 説明
+
+シナリオ型のチャットボット。  
+/assets/data/data.jsに応答シナリオをセットしています。  
+上記の内容を書き換えるだけで簡単なシナリオ型チャットボットとして使用できます。  
